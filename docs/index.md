@@ -9,3 +9,23 @@ Audio examples will be available soon.
 For each example [...]. <br>
 We compare the results of the proposed method with the FastMNMF and ILRMA.
 --->
+
+<table style="width: 100%; table-layout: fixed; word-wrap: normal;">
+  <!-- SETUP -->
+  <tr> 
+    <th colspan="4" style="text-align:center;">EXAMPLE 1</th>
+  </tr>
+  <tr>
+    <td>
+      Setup <br>
+      SOI=1 <br>
+      R=2
+    </td>
+    <td>
+      <img src="examples/exs1/ds1/mixture_mic0.png" title="mic0" width="100%"/>
+      <audio controls>
+        <source src="examples/exs1/ds1/mixture_mic0.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+</table>
