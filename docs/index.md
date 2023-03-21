@@ -13,25 +13,31 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
 <table style="width: 100%; table-layout: fixed; word-wrap: normal;">
   <!-- SETUP -->
   <tr> 
-    <th colspan="4" style="text-align:center;">EXAMPLE 1</th>
+    <th colspan="4" style="text-align:center;">EXAMPLE 1: 4 HOMs, 2 Female sources</th>
   </tr>
   <tr>
     <td>
-      Sources: 2 female <br>
+      Source: 1 <br>
       T60: 0.3[s]<br>
-      Arrays: 4
     </td>
+    <td>
+      Mixture
+      <audio controls>
+        <source src="examples/exs1/2_source/4_array/30/1_order/.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>e
+    <\td>
     <td>
       <!-- <img src="examples/exs1/ds1/mixture_mic0.png" title="mic0" width="100%"/> -->
       Sph order: 1 <br>
       Source 1
       <audio controls>
-        <source src="examples/exs1/ds1/4_array/30/1_order/est_1.wav" type="audio/mpeg">
+        <source src="examples/exs1/2_source/1_position/4_array/30/1_order/est_1_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs1/ds1/4_array/30/1_order/est_2.wav" type="audio/mpeg">
+        <source src="examples/exs1/2_source/1_position/4_array/30/1_order/est_2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -40,12 +46,12 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Sph order: 2 <br>
       Source 1
       <audio controls>
-        <source src="examples/exs1/ds1/4_array/30/2_order/est_2.wav" type="audio/mpeg">
+        <source src="examples/exs1/2_source/1_position/4_array/30/2_order/est_1_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs1/ds1/4_array/30/2_order/est_2.wav" type="audio/mpeg">
+        <source src="examples/exs1/2_source/1_position/4_array/30/2_order/est_2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
