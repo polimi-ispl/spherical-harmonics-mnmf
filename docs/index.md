@@ -32,12 +32,12 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Sph order: 1 <br>
       Source 1
       <audio controls>
-        <source src="examples/exs1/2source/1position/4array/30/1order/est_1_mono.wav" type="audio/mpeg">
+        <source src="examples/exs1/2source/1position/4array/30/1order/est1_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs1/2source/1position/4array/30/1order/est_2_mono.wav" type="audio/mpeg">
+        <source src="examples/exs1/2source/1position/4array/30/1order/est2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -46,12 +46,12 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Sph order: 2 <br>
       Source 1
       <audio controls>
-        <source src="examples/exs1/2source/1position/4array/30/1order/est_1_mono.wav" type="audio/mpeg">
+        <source src="examples/exs1/2source/1position/4array/30/1order/est1_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs1/2source/1position/4array/30/1order/est_2_mono.wav" type="audio/mpeg">
+        <source src="examples/exs1/2source/1position/4array/30/1order/est2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
