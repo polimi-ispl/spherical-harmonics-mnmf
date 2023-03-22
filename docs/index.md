@@ -126,8 +126,8 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
   </tr>
   <tr>
     <td>
-      Source: 1 <br>
-      T60: 0.3[s]<br>
+      Source: 2 <br>
+      T60: 1.2[s]<br>
     </td>
     <td>
       Estimated Exterior field (input of MNMF algorithms)
