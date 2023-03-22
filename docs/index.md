@@ -210,12 +210,12 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Exterior Field Reference <br>
       Source 1
       <audio controls>
-        <source src="examples/exs1/2source/2_position/8_array/120/1order/estFede1_mono.wav" type="audio/mpeg">
+        <source src="examples/exs1/2source/2_position/8_array/120/1_order/estFede1_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs1/2source/2_position/8_array/120/1order/estFede2_mono.wav" type="audio/mpeg">
+        <source src="examples/exs1/2source/2_position/8_array/120/1_order/estFede2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -316,12 +316,12 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Exterior Field Reference <br>
       Source 1
       <audio controls>
-        <source src="examples/exs1/2source/3_position/16_array/60/1order/estFede1_mono.wav" type="audio/mpeg">
+        <source src="examples/exs1/2source/3_position/16_array/60/1_order/estFede1_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs1/3_position/16_array/60/1order/estFede2_mono.wav" type="audio/mpeg">
+        <source src="examples/exs1/3_position/16_array/60/1_order/estFede2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
