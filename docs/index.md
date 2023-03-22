@@ -20,13 +20,20 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Source: 1 <br>
       T60: 0.3[s]<br>
     </td>
-<!--     <td>
+    <td>
       Mixture
       <audio controls>
-        <source src="examples/exs1/2_source/4_array/30/1_order/.wav" type="audio/mpeg">
+        <source src="examples/exs1/2source/1position/4array/30/mix_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-    <\td> -->
+    </td>
+    <td>
+      Estimated Exterior field (input of MNMF algorithms)
+      <audio controls>
+        <source src="examples/exs1/2source/1position/4array/30/input_mono.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
     <td>
       <!-- <img src="examples/exs1/ds1/mixture_mic0.png" title="mic0" width="100%"/> -->
       Sph order: 1 <br>
@@ -66,6 +73,34 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Source 2
       <audio controls>
         <source src="examples/exs1/2source/1position/4array/30/3order/est2_mono.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <!-- <img src="examples/exs1/ds1/mixture_mic0.png" title="mic0" width="100%"/> -->
+      ILRMA <br>
+      Source 1
+      <audio controls>
+        <source src="examples/exs1/2source/1position/4array/30/ilrma_est_1_mono.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio><br>
+      Source 2
+      <audio controls>
+        <source src="examples/exs1/2source/1position/4array/30/ilrma_est_2_mono" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <!-- <img src="examples/exs1/ds1/mixture_mic0.png" title="mic0" width="100%"/> -->
+      FastMNMF <br>
+      Source 1
+      <audio controls>
+        <source src="examples/exs1/2source/1position/4array/30/fast_source_1_mono.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio><br>
+      Source 2
+      <audio controls>
+        <source src="examples/exs1/2source/1position/4array/30/fast_source_2_mono" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
