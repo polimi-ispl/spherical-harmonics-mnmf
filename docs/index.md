@@ -13,19 +13,14 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
 <table style="width: 100%; table-layout: fixed; word-wrap: normal;">
   <!-- SETUP -->
   <tr> 
-    <th colspan="4" style="text-align:center;">EXAMPLE 1: 4 HOMs, 2 Female sources</th>
+    <th colspan="7" style="text-align:center;">EXAMPLE 1: 4 HOMs, 2 Female sources Mixture <audio controls><source src="examples/exs1/2source/1position/4array/30/mix_mono.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio></th>
   </tr>
   <tr>
     <td>
       Source: 1 <br>
       T60: 0.3[s]<br>
-    </td>
-    <td>
-      Mixture
-      <audio controls>
-        <source src="examples/exs1/2source/1position/4array/30/mix_mono.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
     </td>
     <td>
       Estimated Exterior field (input of MNMF algorithms)
@@ -86,7 +81,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs1/2source/1position/4array/30/ilrma_est_2_mono" type="audio/mpeg">
+        <source src="examples/exs1/2source/1position/4array/30/ilrma_est_2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -100,7 +95,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs1/2source/1position/4array/30/fast_source_2_mono" type="audio/mpeg">
+        <source src="examples/exs1/2source/1position/4array/30/fast_source_2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
