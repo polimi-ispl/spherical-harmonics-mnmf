@@ -238,7 +238,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
     <td>
       Estimated Exterior field (input of MNMF algorithms)
       <audio controls>
-        <source src="examples/exs1/3_position/16_array/60/input_mono.wav" type="audio/mpeg">
+        <source src="examples/exs1/2source/3_position/16_array/60/input_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -321,7 +321,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs1/3_position/16_array/60/1_order/estFede2_mono.wav" type="audio/mpeg">
+        <source src="examples/exs1/2source/3_position/16_array/60/1_order/estFede2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
