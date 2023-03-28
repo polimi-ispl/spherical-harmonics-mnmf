@@ -637,12 +637,6 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
         <source src="examples/exs3/2_source/1_position/4_array/30/1_order/est2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <br>
-      Source 3
-      <audio controls>
-        <source src="examples/exs3/2_source/1_position/4_array/30/1_order/est3_mono.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
     </td>
     <td>
       <!-- <img src="examples/exs1/ds1/mixture_mic0.png" title="mic0" width="100%"/> -->
@@ -655,11 +649,6 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Source 2
       <audio controls>
         <source src="examples/exs3/2_source/1_position/4_array/30/2_order/est2_mono.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio><br>
-      Source 3
-      <audio controls>
-        <source src="examples/exs3/2_source/1_position/4_array/30/2_order/est3_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -675,11 +664,6 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       <audio controls>
         <source src="examples/exs3/2_source/1_position/4_array/30/3_order/est2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
-      </audio><br>
-      Source 3
-      <audio controls>
-        <source src="examples/exs3/2_source/1_position/4_array/30/3_order/est3_mono.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
       </audio>
     </td>
     <td>
@@ -693,11 +677,6 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Source 2
       <audio controls>
         <source src="examples/exs3/2_source/1_position/4_array/30/ilrma_est_2_mono.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio><br>
-      Source 3
-      <audio controls>
-        <source src="examples/exs3/2_source/1_position/4_array/30/ilrma_est_3_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -714,12 +693,6 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
         <source src="examples/exs3/2_source/1_position/4_array/30/fast_source_2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <br>
-      Source 3
-      <audio controls>
-        <source src="examples/exs3/2_source/1_position/4_array/30/fast_source_3_mono.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
     </td>
     <td>
       Exterior Field Reference <br>
@@ -733,11 +706,6 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
         <source src="examples/exs3/2_source/1_position/4_array/30/1_order/estFede2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
-      Source 3
-      <audio controls>
-        <source src="examples/exs3/2_source/1_position/4_array/30/1_order/estFede3_mono.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
     </td>
   </tr> 
 </table>
@@ -775,12 +743,6 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
         <source src="examples/exs3/2_source/1_position/8_array/60/1_order/est2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <br>
-      Source 3
-      <audio controls>
-        <source src="examples/exs3/2_source/1_position/8_array/60/1_order/est3_mono.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
     </td>
     <td>
       <!-- <img src="examples/exs1/ds1/mixture_mic0.png" title="mic0" width="100%"/> -->
@@ -793,11 +755,6 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Source 2
       <audio controls>
         <source src="examples/exs3/2_source/1_position/8_array/60/2_order/est2_mono.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio><br>
-      Source 3
-      <audio controls>
-        <source src="examples/exs3/2_source/1_position/8_array/60/2_order/est3_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -813,11 +770,6 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       <audio controls>
         <source src="examples/exs3/2_source/1_position/8_array/60/3_order/est2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
-      </audio><br>
-      Source 3
-      <audio controls>
-        <source src="examples/exs3/2_source/1_position/8_array/60/3_order/est3_mono.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
       </audio>
     </td>
     <td>
@@ -831,11 +783,6 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Source 2
       <audio controls>
         <source src="examples/exs3/2_source/1_position/8_array/60/ilrma_est_2_mono.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio><br>
-      Source 3
-      <audio controls>
-        <source src="examples/exs3/2_source/1_position/8_array/60/ilrma_est_3_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -852,12 +799,6 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
         <source src="examples/exs3/2_source/1_position/8_array/60/fast_source_2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <br>
-      Source 3
-      <audio controls>
-        <source src="examples/exs3/2_source/1_position/8_array/60/fast_source_3_mono.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
     </td>
     <td>
       Exterior Field Reference <br>
@@ -869,11 +810,6 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Source 2
       <audio controls>
         <source src="examples/exs3/2_source/1_position/8_array/60/1_order/estFede2_mono.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio><br>
-      Source 3
-      <audio controls>
-        <source src="examples/exs3/2_source/1_position/8_array/60/1_order/estFede3_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
