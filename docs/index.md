@@ -226,7 +226,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
 <table style="width: 100%; table-layout: fixed; word-wrap: normal;">
   <!-- SETUP -->
   <tr> 
-    <th colspan="8" style="text-align:center;">EXAMPLE 2: 16 HOMs, 2 Female sources Mixture <audio controls><source src="examples/exs1/2source/3_position/16_array/60/mix_mono.wav" type="audio/mpeg">
+    <th colspan="8" style="text-align:center;">EXAMPLE 3: 16 HOMs, 2 Female sources Mixture <audio controls><source src="examples/exs1/2source/3_position/16_array/60/mix_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio></th>
   </tr>
@@ -328,7 +328,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
   </tr> 
 </table>
 
-<!--  EXAMPLE -->
+<!-- FOURTH EXAMPLE -->
 <table style="width: 100%; table-layout: fixed; word-wrap: normal;">
   <!-- SETUP -->
   <tr> 
@@ -459,7 +459,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       </audio><br>
       Source 3
       <audio controls>
-        <source src="examples/exs2/3_source/1_position/8_array/60/estFede3_mono.wav" type="audio/mpeg">
+        <source src="examples/exs2/3_source/1_position/8_array/60/1_order/estFede3_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
