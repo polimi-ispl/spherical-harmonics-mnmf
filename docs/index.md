@@ -947,12 +947,17 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Sph order: 1 <br>
       Source 1
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/8_array/60/1_order/est1_mono.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/8_array/60/1_order/est1.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/8_array/60/1_order/est2_mono.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/8_array/60/1_order/est2.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio><br>
+      Source 3
+      <audio controls>
+        <source src="examples/exs3/3_source/1_position/8_array/60/1_order/est3.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -961,12 +966,17 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Sph order: 2 <br>
       Source 1
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/8_array/60/2_order/est1_mono.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/8_array/60/2_order/est1.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/8_array/60/2_order/est2_mono.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/8_array/60/2_order/est2.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio><br>
+      Source 3
+      <audio controls>
+        <source src="examples/exs3/3_source/1_position/8_array/60/2_order/est3.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -975,12 +985,17 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Sph order: 3 <br>
       Source 1
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/8_array/60/3_order/est1_mono.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/8_array/60/3_order/est1.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/8_array/60/3_order/est2_mono.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/8_array/60/3_order/est2.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio><br>
+      Source 3
+      <audio controls>
+        <source src="examples/exs3/3_source/1_position/8_array/60/3_order/est3.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -996,6 +1011,11 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       <audio controls>
         <source src="examples/exs3/3_source/1_position/8_array/60/ilrma_est_2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
+      </audio><br>
+      Source 3
+      <audio controls>
+        <source src="examples/exs3/3_source/1_position/8_array/60/ilrma_est_3_mono.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
       </audio>
     </td>
     <td>
@@ -1009,6 +1029,11 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Source 2
       <audio controls>
         <source src="examples/exs3/3_source/1_position/8_array/60/fast_source_2_mono.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio><br>
+      Source 3
+      <audio controls>
+        <source src="examples/exs3/3_source/1_position/8_array/60/fast_source_3_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
