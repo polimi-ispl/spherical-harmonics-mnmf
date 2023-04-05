@@ -1019,17 +1019,17 @@ The collected mono signals are obtained averaging all the sensors.
       FastMNMF <br>
       Source 1
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/8_array/60/fast_source_1_mono.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/4_array/120/fast_source_1_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/8_array/60/fast_source_2_mono.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/4_array/120/fast_source_2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 3
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/8_array/60/fast_source_3_mono.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/4_array/120/fast_source_3_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -1037,17 +1037,17 @@ The collected mono signals are obtained averaging all the sensors.
       Exterior Field Reference <br>
       Source 1
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/8_array/60/1_order/estFede1.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/4_array/120/1_order/estFede1.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/8_array/60/1_order/estFede2.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/4_array/120/1_order/estFede2.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 3
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/8_array/60/1_order/estFede3.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/4_array/120/1_order/estFede3.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
