@@ -1,14 +1,10 @@
-In the context of source separation solutions for virtual reality (VR) applications, several techniques in the spherical harmonic domain (SH) have been proposed in the literature. The performance of such methods is limited under high reverberation conditions and the rendering of the obtained spatial sound is fixed to the recording location only. Recently, novel sound field works in the literature proposed a global representation that enables both the estimation of the direct sound (exterior field) and the reconstruction in locations different from the acquisition ones. In this paper, we propose a signal processing framework based on Multichannel Non-Negative Matrix Factorization (MNMF) in the SH domain that operates directly over the exterior field coefficients enabling the reconstruction of the direct sound field of the separated sources. To evaluate our proposal, we compared with other state-of-the-art source separation approaches using several setups and including different reverberation conditions, showing promising results in terms of SDR metrics.
-
-### Method
-<!--  ![Image](figures/pipeline.png) -->
+In the context of source separation solutions for virtual reality applications, several techniques in the spherical harmonics domain have been proposed in the literature. The performance of such methods is limited under high reverberation conditions and the rendering of the obtained spatial sound is fixed to the recording location only. Recently, novel sound field works in the literature proposed a global representation that enables both the direct sound (exterior field) estimation and the reconstruction in locations different from the acquisition ones. In this paper, we propose a signal processing framework based on Multichannel Non-Negative Matrix Factorization in the spherical harmonics domain that operates directly over the exterior field coefficients enabling the reconstruction of the direct sound field of the separated sources. To evaluate our proposal, we compared with other state-of-the-art source separation approaches using several setups and including different reverberation conditions, showing promising results in terms of SDR metrics.
 
 # Listening tests
-Audio examples will be available soon.
-<!--- Here below we report some audio examples along with the spectrogram of the signals. <br>
-For each example [...]. <br>
-We compare the results of the proposed method with the FastMNMF and ILRMA.
---->
+Here below we report some audio examples accompanying the paper. <br>
+For each example we included the mixture, the exterior field estimation (Eq. 15), which is the dereverberated input of the MNMF algorithms, the estimates obtained by the proposed method varying spherical harmonics order $\tilde{N}'_E$, the estimates using ILRMA and FastMNMF and the reference exterior field for each source. <br>
+The collected mono signals are obtained averaging all the sensors.
+
 
 <!-- FIRST EXAMPLE -->
 <table style="width: 100%; table-layout: fixed; word-wrap: normal;">
@@ -20,7 +16,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
   </tr>
   <tr>
     <td>
-      Source position: 1 <br>
+      <!-- Source position: 1 <br> -->
       T60: 0.3[s]<br>
     </td>
     <td>
@@ -126,7 +122,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
   </tr>
   <tr>
     <td>
-      Source position: 2 <br>
+      <!-- Source position: 2 <br> -->
       T60: 1.2[s]<br>
     </td>
     <td>
@@ -232,7 +228,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
   </tr>
   <tr>
     <td>
-      Source position: 3 <br>
+      <!-- Source position: 3 <br> -->
       T60: 0.6[s]<br>
     </td>
     <td>
@@ -338,7 +334,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
   </tr>
   <tr>
     <td>
-      Source position: 3 <br>
+      <!-- Source position: 3 <br> -->
       T60: 0.6[s]<br>
     </td>
     <td>
@@ -476,7 +472,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
   </tr>
   <tr>
     <td>
-      Source position: 2 <br>
+      <!-- Source position: 2 <br> -->
       T60: 0.3[s]<br>
     </td>
     <td>
@@ -614,7 +610,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
   </tr>
   <tr>
     <td>
-      Source position: 1 <br>
+      <!-- Source position: 1 <br> -->
       T60: 0.3[s]<br>
     </td>
     <td>
@@ -720,7 +716,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
   </tr>
   <tr>
     <td>
-      Source position: 1 <br>
+      <!-- Source position: 1 <br> -->
       T60: 0.6[s]<br>
     </td>
     <td>
@@ -826,7 +822,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
   </tr>
   <tr>
     <td>
-      Source position: 2 <br>
+      <!-- Source position: 2 <br> -->
       T60: 1.2[s]<br>
     </td>
     <td>
@@ -932,7 +928,7 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
   </tr>
   <tr>
     <td>
-      Source position: 1 <br>
+      <!-- Source position: 1 <br> -->
       T60: 1.2[s]<br>
     </td>
     <td>
@@ -1023,17 +1019,17 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       FastMNMF <br>
       Source 1
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/4_array/120/fast_source_1_mono.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/8_array/60/fast_source_1_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/4_array/120/fast_source_2_mono.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/8_array/60/fast_source_2_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 3
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/4_array/120/fast_source_3_mono.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/8_array/60/fast_source_3_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -1041,17 +1037,17 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
       Exterior Field Reference <br>
       Source 1
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/4_array/120/1_order/estFede1.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/8_array/60/1_order/estFede1.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 2
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/4_array/120/1_order/estFede2.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/8_array/60/1_order/estFede2.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio><br>
       Source 3
       <audio controls>
-        <source src="examples/exs3/3_source/1_position/4_array/120/1_order/estFede3.wav" type="audio/mpeg">
+        <source src="examples/exs3/3_source/1_position/8_array/60/1_order/estFede3.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -1062,13 +1058,13 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
 <table style="width: 100%; table-layout: fixed; word-wrap: normal;">
   <!-- SETUP -->
   <tr> 
-    <th colspan="8" style="text-align:center;">EXAMPLE 9: 8 HOMs, 3 Male sources Mixture <audio controls><source src="examples/exs3/3_source/1_position/8_array/60/mix_mono.wav" type="audio/mpeg">
+    <th colspan="8" style="text-align:center;">EXAMPLE 10: 8 HOMs, 3 Male sources Mixture <audio controls><source src="examples/exs3/3_source/1_position/8_array/60/mix_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio></th>
   </tr>
   <tr>
     <td>
-      Source position: 1 <br>
+      <!-- Source position: 1 <br> -->
       T60: 0.6[s]<br>
     </td>
     <td>
@@ -1198,13 +1194,13 @@ We compare the results of the proposed method with the FastMNMF and ILRMA.
 <table style="width: 100%; table-layout: fixed; word-wrap: normal;">
   <!-- SETUP -->
   <tr> 
-    <th colspan="8" style="text-align:center;">EXAMPLE 9: 16 HOMs, 3 Male sources Mixture <audio controls><source src="examples/exs3/3_source/1_position/16_array/30/mix_mono.wav" type="audio/mpeg">
+    <th colspan="8" style="text-align:center;">EXAMPLE 11: 16 HOMs, 3 Male sources Mixture <audio controls><source src="examples/exs3/3_source/1_position/16_array/30/mix_mono.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio></th>
   </tr>
   <tr>
     <td>
-      Source position: 1 <br>
+      <!-- Source position: 1 <br> -->
       T60: 0.3[s]<br>
     </td>
     <td>
