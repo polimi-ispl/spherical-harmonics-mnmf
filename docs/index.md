@@ -1,9 +1,14 @@
-In the context of source separation solutions for virtual reality applications, several techniques in the spherical harmonics domain have been proposed in the literature. The performance of such methods is limited under high reverberation conditions and the rendering of the obtained spatial sound is fixed to the recording location only. Recently, novel sound field works in the literature proposed a global representation that enables both the direct sound (exterior field) estimation and the reconstruction in locations different from the acquisition ones. In this paper, we propose a signal processing framework based on Multichannel Non-Negative Matrix Factorization in the spherical harmonics domain that operates directly over the exterior field coefficients enabling the reconstruction of the direct sound field of the separated sources. To evaluate our proposal, we compared with other state-of-the-art source separation approaches using several setups and including different reverberation conditions, showing promising results in terms of SDR metrics.
+# Abstract
+In the context of source separation solutions for virtual reality applications, several techniques in the spherical harmonics domain have been proposed in the literature. The performance of such methods is limited under high reverberation conditions and the rendering of the obtained spatial sound is fixed to the recording location only. Recently, novel sound field works in the literature proposed a global representation that enables both the direct sound (exterior field) estimation and the reconstruction in locations different from the acquisition ones. In this paper, we propose a signal processing framework based on Multichannel Non-Negative Matrix Factorization in the spherical harmonics domain that operates directly over the exterior field coefficients enabling the reconstruction of the direct sound field of the separated sources. To evaluate our proposal, we compared with other state-of-the-art source separation approaches using several setups and including different reverberation conditions, showing promising results in terms of BSS_eval metrics.
+
+
+[!WARNING]  
+The related manuscript is currently under review.
 
 # Listening tests
 Here below we report some audio examples accompanying the paper. <br>
 For each example we included the mixture, the exterior field estimation (Eq. 15), which is the dereverberated input of the MNMF algorithms, the estimates obtained by the proposed method varying spherical harmonics order $\tilde{N}'_E$, the estimates using ILRMA and FastMNMF and the reference exterior field for each source. <br>
-The collected mono signals are obtained averaging all the sensors.
+The collected mono signals are obtained averaging the signals of all the sensors.
 
 
 <!-- FIRST EXAMPLE -->
