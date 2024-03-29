@@ -1,5 +1,5 @@
 # Website audio examples
-Repository of [website demo](https://polimi-ispl.github.io/spherical-harmonics-mnmf/) for Spherical-Harmonics-based Sound Field Decomposition and Multichannel NMF for Sound Source Separation published in Applied Acoustics 
+Repository of [website demo](https://polimi-ispl.github.io/spherical-harmonics-mnmf/) for Spherical-Harmonics-based Sound Field Decomposition and Multichannel NMF for Sound Source Separation published in Applied Acoustics https://doi.org/10.1016/j.apacoust.2024.109888 
 ### Spherical-Harmonics-based Sound Field Decomposition and Multichannel NMF for Sound Source Separation
 Mirco Pezzoli(1), Julio Carabias Orti(2), Pedro Vera Candeas(2), Fabio Antonacci(1), Augusto Sarti(1), <br>
 
@@ -8,7 +8,7 @@ Mirco Pezzoli(1), Julio Carabias Orti(2), Pedro Vera Candeas(2), Fabio Antonacci
 
 Please cite this work as 
 
-'''
+```
 @article{pezzoli2024spherical,
   title={Spherical-harmonics-based sound field decomposition and multichannel NMF for sound source separation},
   author={Pezzoli, Mirco and Carabias-Orti, Julio and Vera-Candeas, Pedro and Antonacci, Fabio and Sarti, Augusto},
@@ -18,4 +18,4 @@ Please cite this work as
   year={2024},
   publisher={Elsevier}
 }
-'''
+```
